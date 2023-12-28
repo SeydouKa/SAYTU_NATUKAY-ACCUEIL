@@ -1,4 +1,3 @@
-streamlit
 tkinter
 sounddevice
 pyaudio
