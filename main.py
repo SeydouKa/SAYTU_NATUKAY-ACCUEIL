@@ -1,10 +1,7 @@
 import streamlit as st
 
-from tkinter import *
-from PIL import Image, ImageTk
-import tkinter.filedialog
 import tkinter as tk
-from tkinter import messagebox
+
 import sounddevice as sd
 import numpy as np
 import scipy.io.wavfile as wav
@@ -12,23 +9,11 @@ import numpy as np
 import tkinter as tk
 import ffmpeg
 
-
-from PIL import Image, ImageOps 
 import numpy as np
 
 import pygame
-from scipy.io.wavfile import write
-import time
-#------------ AFFFICHER UN AUDIO ---------------------
-import wave
 from pydub import AudioSegment
 from pydub.playback import play
-
-import pyaudio
-import geopandas as gpd
-from shapely.geometry import Point
-import geocoder
-
 
 ############## --------- -----------------      PAGE D'ACCEUIL 2 BOUTONS              ------------------------------------------
 
