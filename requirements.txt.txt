@@ -1,0 +1,12 @@
+streamlit
+GDAL
+fiona
+geopandas
+shapely
+geocoder
+tkinter
+sounddevice
+pyaudio
+wave
+pydub
+PIL
