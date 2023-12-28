@@ -1,0 +1,5 @@
+[server]
+script_folder = "https://mainpy-cpp38djaiagagtexjoreij.streamlit.app/"
+head = """
+<script src="https://cdn.jsdelivr.net/npm/tk@8.6.11/lib/tk.js"></script>
+"""
